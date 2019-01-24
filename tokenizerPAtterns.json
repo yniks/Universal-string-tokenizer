@@ -1,0 +1,26 @@
+{
+    "scopeStart":"\\{",
+    "scopeEnd":"\\}",
+    "parenthesisStart":"\\(",
+    "parenthesisEnd":"\\)",
+    "indexedScopeStart":"\\[",
+    "indexedScopeEnd":"\\]",
+    "stringBoundry":"\"|'",
+
+    "name":"(\\b[\\w_]+\\b)",
+
+    "operatorPlus":"\\+",
+    "operatorMinus":"\\-",
+    "operatorStar":"\\*",
+    "operatorDot":"\\.",
+    "operatorForSlash":"\\/",
+    "operatorBackSlash":"\\",
+    "operaorAssign":"=",
+    "operatorDoubleEql":"==",
+    "operatorNotEqual":"!=",
+    "operatorNot":"!",
+    "operatorColon":":",
+    "operatorDoubleColon":"::",
+    "operatorQuestion":"\\?",
+    "operatorDoller":"\\$"
+}
