@@ -61,4 +61,4 @@ typings/
 .next
 
 #compiled code
-bin
+./bin
